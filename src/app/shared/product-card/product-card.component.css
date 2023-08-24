@@ -1,0 +1,20 @@
+.card{
+  margin-top: 1rem;
+  height: 30rem;
+  padding: 1rem;
+}
+.card-img-top{
+  height: 18rem;
+}
+p{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* .bi-heart{
+  background-color: red;
+} */
+.heart{
+  width: 1rem;
+    height: 1rem;
+}

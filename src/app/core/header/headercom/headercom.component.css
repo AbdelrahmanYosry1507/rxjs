@@ -1,0 +1,21 @@
+.header-content{
+  display: flex;
+  justify-content: space-between;
+  background: cornflowerblue;
+  color: #fff;
+padding: .5rem;
+
+font-size: 12px;
+margin-bottom: 2rem;
+}
+.links ul{
+  display: flex;
+  gap: 4rem;
+  list-style: none;
+  margin-bottom: 0;
+}
+button{
+  background: transparent;
+  border: 1px solid #ccc;
+  color: #fff;
+}
